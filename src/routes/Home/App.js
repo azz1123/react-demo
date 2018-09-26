@@ -5,6 +5,8 @@ import {Button} from 'antd';
 
 // import PropTypes from 'prop-types';
 
+import Home from '../ManagePage/Home/Home';
+
 import './App.less'
 
 class App extends React.Component {
@@ -20,7 +22,7 @@ class App extends React.Component {
     console.log("render-app", this.props)
     return (
       <div className="App">
-        {this.props.children}
+        {this.props.children || <Home {...this.props}/>}
       </div>
     );
   }

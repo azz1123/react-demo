@@ -40,7 +40,8 @@ class Home extends React.Component {
   }
 
   componentDidMount() {
-
+    const {router} = this.props;
+    router.replace("/main/list")
   }
 
   render() {
