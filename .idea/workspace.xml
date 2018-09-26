@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acb02f7c-e128-4c85-9bac-c6118e5c8f17" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/routes/Home/App.js" afterPath="$PROJECT_DIR$/src/routes/Home/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/routes/ManagePage/Home/Home.js" afterPath="$PROJECT_DIR$/src/routes/ManagePage/Home/Home.js" />
-    </list>
+    <list default="true" id="acb02f7c-e128-4c85-9bac-c6118e5c8f17" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -145,7 +142,7 @@
             <entry file="file://$PROJECT_DIR$/src/routes/Home/App.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="361">
-                  <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+                  <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
                   <folding>
                     <element signature="e#35#61#0" expanded="true" />
                     <element signature="e#133#176#0" expanded="true" />
@@ -208,7 +205,7 @@
             <entry file="file://$PROJECT_DIR$/src/routes/ManagePage/Home/Home.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="291">
-                  <caret line="41" column="11" lean-forward="true" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+                  <caret line="41" column="11" lean-forward="false" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
                   <folding>
                     <element signature="e#0#26#0" expanded="true" />
                   </folding>
@@ -559,12 +556,12 @@
       <workItem from="1537840025384" duration="20375000" />
       <workItem from="1537867621515" duration="629000" />
       <workItem from="1537869109821" duration="4328000" />
-      <workItem from="1537925082516" duration="26973000" />
+      <workItem from="1537925082516" duration="27046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155330000" />
+    <option name="totallyTimeSpent" value="155403000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -992,7 +989,7 @@
     <entry file="file://$PROJECT_DIR$/src/routes/Home/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="e#35#61#0" expanded="true" />
             <element signature="e#133#176#0" expanded="true" />
@@ -1003,7 +1000,7 @@
     <entry file="file://$PROJECT_DIR$/src/routes/ManagePage/Home/Home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
-          <caret line="41" column="11" lean-forward="true" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+          <caret line="41" column="11" lean-forward="false" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
